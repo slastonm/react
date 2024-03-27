@@ -1,0 +1,14 @@
+.info-block{
+    width: 500px;
+    margin: 0 auto;
+    border: 3px solid white;
+    padding: 50px;
+}
+.info-block img{
+    width: 100%;
+}
+button{
+    background-color: orange;
+    color:white;
+    margin: 50px;
+}
